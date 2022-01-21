@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 3-1\main\compare.h(7): warning C4172: returning address of local variable or temporary: a
+C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 3-1\main\compare.h(10): warning C4172: returning address of local variable or temporary: b
+  main.vcxproj -> C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 3-1\Debug\main.exe
