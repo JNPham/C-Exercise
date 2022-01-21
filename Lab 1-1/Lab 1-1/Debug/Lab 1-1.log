@@ -1,0 +1,3 @@
+﻿  Lab 1-1.cpp
+C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 1-1\Lab 1-1\Lab 1-1.cpp(13,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Lab 1-1.vcxproj -> C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 1-1\Debug\Lab 1-1.exe
