@@ -1,0 +1,5 @@
+﻿  Distance.cpp
+C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 8\main\Distance.cpp(10,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 8\main\Distance.cpp(21,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 8\main\Distance.cpp(24,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.vcxproj -> C:\Users\hongn\OneDrive\Desktop\CECS 282 C++\Lab 8\Debug\main.exe
